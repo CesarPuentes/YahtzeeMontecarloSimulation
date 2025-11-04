@@ -1,6 +1,6 @@
 # Simulación de Montecarlo: Yahtzee
 
-![Simulación de un juego de Yahtzee](montercarlo.png)
+![Simulación de un juego de Yahtzee](montercarlo2.png)
 
 Este proyecto es una aplicación del método de Montecarlo para analizar el juego de Yahtzee. En lugar de jugar una sola vez, este script simula miles de partidas completas entre dos "bots" automáticos para descubrir patrones estadísticos, como el puntaje promedio y la distribución de todos los resultados posibles.
 
